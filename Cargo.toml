@@ -1,5 +1,10 @@
 [package]
+<<<<<<< HEAD
 name = "{{project-name}}"
+=======
+# name = "{{project-name}}"
+name = "something"
+>>>>>>> 31fee0e (Initial commit)
 version = "0.1.0"
 edition = "2024"
 
