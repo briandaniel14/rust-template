@@ -1,8 +1,6 @@
 fn main() {
     println!("Hello world!");
 }
-<<<<<<< HEAD
-=======
 
 #[cfg(test)]
 mod tests {
@@ -11,4 +9,3 @@ mod tests {
         assert_eq!(2 + 2, 4)
     }
 }
->>>>>>> 31fee0e (Initial commit)
